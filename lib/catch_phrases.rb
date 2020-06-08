@@ -11,6 +11,9 @@ end
 
 def link
   phrase = "It's Dangerous To Go Alone! Take This."
+    phrase = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
 end  
   
+def all_phases
+   phrase ="It's-a me, Mario!"
